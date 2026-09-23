@@ -1,0 +1,5 @@
+{
+    "editor.inlineSuggest.experimental.showOnSuggestConflict": "always",
+    "editor.inlineSuggest.triggerCommandOnProviderChange": true,
+    "editor.suggest.showStatusBar": true
+}
